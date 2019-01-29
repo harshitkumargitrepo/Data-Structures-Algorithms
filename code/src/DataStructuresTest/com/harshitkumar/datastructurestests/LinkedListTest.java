@@ -1,9 +1,10 @@
-package com.harshitkumar.datastructures;
+package com.harshitkumar.datastructurestests;
 
 import static org.junit.Assert.*;
-
 import org.junit.Before;
 import org.junit.Test;
+
+import com.harshitkumar.datastructures.LinkedList;
 
 public class LinkedListTest {
 
