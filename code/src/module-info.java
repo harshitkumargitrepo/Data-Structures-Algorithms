@@ -6,4 +6,5 @@
  *
  */
 module javaBasedDataStructuresAlgorithms {
+	requires junit;
 }
