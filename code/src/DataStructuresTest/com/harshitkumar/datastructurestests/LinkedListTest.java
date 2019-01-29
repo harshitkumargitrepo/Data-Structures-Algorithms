@@ -17,7 +17,7 @@ public class LinkedListTest {
 
 	// Add the data to the front of the Linked List
 	@Test
-	public void AddFront(int data) {
+	public void AddFront() {
 		fail("Not yet implemented");
 	}
 	// Get the first node data of the Linked List
@@ -32,7 +32,7 @@ public class LinkedListTest {
 	}
 	// Add the data to the back of the Linked List
 	@Test	
-	public void AddBack(int data) {
+	public void AddBack() {
 		fail("Not yet implemented");
 	}
 	// get the size of the Linked List
@@ -47,7 +47,7 @@ public class LinkedListTest {
 	}
 	// Delete the data from the Linked List
 	@Test	
-	public void deleteValue(int data) {
+	public void deleteValue() {
 		fail("Not yet implemented");	
 	}
 	// Print the Linked List
