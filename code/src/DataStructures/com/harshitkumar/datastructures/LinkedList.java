@@ -7,7 +7,7 @@ public class LinkedList {
 	 *  next : a Pointer to next node
 	 * @author Harshit Kumar
 	 */
-	private static class Node {
+	public static class Node {
 		int data;
 		Node next;
 
