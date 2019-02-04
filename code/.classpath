@@ -10,8 +10,9 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry excluding="DataStructures/|DataStructuresTest/" kind="src" path="src"/>
+	<classpathentry excluding="DataStructures/|DataStructuresTest/|ArrayInterview/" kind="src" path="src"/>
 	<classpathentry kind="src" path="src/DataStructures"/>
 	<classpathentry kind="src" path="src/DataStructuresTest"/>
+	<classpathentry kind="src" path="src/ArrayInterview"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
